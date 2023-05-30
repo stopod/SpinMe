@@ -1,0 +1,15 @@
+#canvasWrapper {
+  position: relative;
+}
+
+#myCanvas {
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+#myImage {
+  position: relative;
+  bottom: -200;
+  right: 200;
+}
